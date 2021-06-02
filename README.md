@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevintonb&label=Profile%20views&color=0e75b6&style=flat" alt="kevintonb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevintonb" alt="kevintonb" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/kev1nt0n" target="blank"><img src="https://img.shields.io/twitter/follow/kev1nt0n?logo=twitter&style=for-the-badge" alt="kev1nt0n" /></a> </p>
-
 - 🔭 Currently helping startups build **next-gen solutions with flutter all around the world**
 
 - 👨‍💻 All of my projects are available at [https://protorix.com](https://protorix.com)
