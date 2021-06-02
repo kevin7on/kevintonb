@@ -17,7 +17,7 @@
 
 - 📫 Reach out to me here **kevin@protorix.com** and here **+918870457970**
 
-- 📹 Check out our youtube channel [https://www.youtube.com/channel/UCbAb20dlr3k9miu08Ee33ZA](https://www.youtube.com/channel/UCbAb20dlr3k9miu08Ee33ZA)
+- 📹 Check out our youtube channel [here](https://www.youtube.com/channel/UCbAb20dlr3k9miu08Ee33ZA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
